@@ -1,4 +1,5 @@
 [brain-tumor-classification-segmentation-README.md](https://github.com/user-attachments/files/31123816/brain-tumor-classification-segmentation-README.md)
+![Screenshot of a Brain tumor Detection App interface](Screenshot 2025-09-01 040813.png)
 # Brain Tumor Classification & Segmentation
 
 A deep learning computer vision application that performs both brain tumor classification and tumor-region segmentation from MRI scans.
